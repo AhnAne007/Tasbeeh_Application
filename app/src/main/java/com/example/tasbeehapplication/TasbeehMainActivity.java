@@ -53,6 +53,9 @@ public class TasbeehMainActivity extends AppCompatActivity {
         counter.setText(String.valueOf(count));
     }
 
+    public void sub(){
+
+    }
 
     public void resetCount(View view) {
         int count = 0;
